@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Spider-Man #1",
+        "category": "Comics",
+        "seller": "ComicCollector123",
+        "highestBid": 50
+    },
+    {
+        "name": "Air Jordan 1",
+        "category": "Shoes",
+        "seller": "SneakerHead456",
+        "highestBid": 200
+    },
+    {
+        "name": "1909-S VDB Lincoln Cent",
+        "category": "Coins",
+        "seller": "Numismatist789",
+        "highestBid": 500
+    },
+    {
+        "name": "Batman: The Dark Knight Returns",
+        "category": "Comics",
+        "seller": "DCFanatic101",
+        "highestBid": 80
+    },
+    {
+        "name": "Yeezy Boost 350 V2",
+        "category": "Shoes",
+        "seller": "YeezyEnthusiast222",
+        "highestBid": 300
+    },
+    {
+        "name": "Ancient Roman Coin",
+        "category": "Coins",
+        "seller": "HistoryBuff555",
+        "highestBid": 1000
+    },
+    {
+        "name": "X-Men #1",
+        "category": "Comics",
+        "seller": "MarvelFanatic007",
+        "highestBid": 75
+    },
+    {
+        "name": "Nike Air Max 90",
+        "category": "Shoes",
+        "seller": "SneakerPro456",
+        "highestBid": 180
+    },
+    {
+        "name": "1794 Flowing Hair Dollar",
+        "category": "Coins",
+        "seller": "CoinCollector999",
+        "highestBid": 1200
+    },
+    {
+        "name": "Wonder Woman #1",
+        "category": "Comics",
+        "seller": "DCComicsSuperfan",
+        "highestBid": 90
+    },
+    {
+        "name": "Adidas Superstar",
+        "category": "Shoes",
+        "seller": "AdidasAficionado",
+        "highestBid": 150
+    },
+    {
+        "name": "Gold Aureus of Julius Caesar",
+        "category": "Coins",
+        "seller": "AncientCoinsExplorer",
+        "highestBid": 800
+    },
+    {
+        "name": "Batman: The Killing Joke",
+        "category": "Comics",
+        "seller": "GothamCollector",
+        "highestBid": 60
+    },
+    {
+        "name": "Converse Chuck Taylor All Star",
+        "category": "Shoes",
+        "seller": "SneakerAddict555",
+        "highestBid": 120
+    },
+    {
+        "name": "Ancient Greek Tetradrachm",
+        "category": "Coins",
+        "seller": "NumismaticExplorer",
+        "highestBid": 800
+    },
+    {
+        "name": "Superman #1",
+        "category": "Comics",
+        "seller": "SuperheroFanatic123",
+        "highestBid": 70
+    },
+    {
+        "name": "Puma Suede Classic",
+        "category": "Shoes",
+        "seller": "PumaEnthusiast789",
+        "highestBid": 90
+    },
+    {
+        "name": "Byzantine Solidus",
+        "category": "Coins",
+        "seller": "ByzantiumHistoryBuff",
+        "highestBid": 950
+    }
+]
