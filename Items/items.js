@@ -24,7 +24,7 @@ app.get('/',(req,res)=>{
 
 
 //open express server
-app.listen(5500, ()=>{
+app.listen(4545, ()=>{
     console.log("Connected")
 })
 
@@ -37,7 +37,9 @@ app.post("/item", (req, res)=>{
         "name"          :   req['body']['name'], 
         "category"      :   req['body']['category'], 
         "seller"        :   req['body']['seller'], 
-        "highestBid"    :   req['body']['highestBid']
+        "highestBid"    :   req['body']['highestBid'],
+        "previousBids"  :   req['body']['previousBids'],
+        "endTime"       :   req['body']['endTime']
     }
     let item = new Item_Model(newItem)
     

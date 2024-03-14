@@ -12,12 +12,24 @@ mongoose.model("items_collection",{
         type: String,
         require: true
     }, 
+    condition:{
+        type: String,
+        require: true
+    },
     seller:{
         type: String,
         require: true
     }, 
     highestBid:{
         type: Number,
+        require: true
+    },
+    previousBids:{
+        type: Array,
+        require: true
+    },
+    endTime:{
+        type: Date,
         require: true
     }
 })

@@ -1,11 +1,99 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Auction Sprint</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Auction Sprint</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+  }
+  nav {
+    background-color: #444;
+    padding: 10px 0;
+    text-align: center;
+  }
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  nav a:hover {
+    background-color: #666;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  .auction-item {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    overflow: auto;
+  }
+  .auction-item h2 {
+    margin-top: 0;
+  }
+  .auction-item p {
+    margin-bottom: 0;
+  }
+  .logo {
+    max-width: 47px;
+  }
+  .preview{
+    max-width: 200px;
+    float: right;
+  }
+</style>
 </head>
 <body>
-  Hi logo 
+  <header>
+    <div style="overflow: auto;">
+      <h1>Auction Sprint     <img src="logo.png" alt="Logo" class="logo"></h1>
+    </div>
+  </header>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Auctions</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+    <a href="#">Sign In / Login</a>
+    
+  </nav>
+  <div class="container">
+    <div class="auction-item">
+      <h2>Amazing Spider-Man #300<img src="https://m.media-amazon.com/images/I/917xRDrnexL._SL1500_.jpg" class = "preview"></h2>
+      <p>Category: Comics</p>
+      <p>Seller: ComicCollector123</p>
+      <p>Description: Lorem ipsum dolor sit amet, consecte</p>
+      <p>Current Bid: $100</p>
+      <p>endTime: 2023-12-31T18:00:00.000Z</p>
+
+      <button>Bid Now</button>
+    </div>
+    <div class="auction-item">
+      <h2>Another Auction Item</h2>
+      <p>Description: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Current Bid: $75</p>
+      <button>Bid Now</button>
+    </div>
+    <!-- Add more auction items here -->
+  </div>
 </body>
 </html>
