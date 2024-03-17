@@ -12,7 +12,7 @@
     background-color: #f0f0f0;
   }
   header {
-    background-color: #333;
+    background-color: #111;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -21,7 +21,7 @@
     margin: 0;
   }
   nav {
-    background-color: #444;
+    background-color: #333;
     padding: 10px 0;
     text-align: center;
   }
@@ -46,12 +46,29 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: left;
     overflow: auto;
+    transition: transform 0.3s ease;
+
+  }
+  .auction-item:hover {
+    transform: translateY(-5px);
   }
   .auction-item h2 {
     margin-top: 0;
   }
   .auction-item p {
     margin-bottom: 0;
+  }
+  .bid-button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .bid-button:hover {
+    background-color: #45a049;
   }
   .logo {
     max-width: 47px;
@@ -73,7 +90,7 @@
     <a href="#">Auctions</a>
     <a href="#">About</a>
     <a href="#">Contact</a>
-    <a href="#">Sign In / Login</a>
+    <a href="#">Sign In/Login</a>
     
   </nav>
   <div class="container">
@@ -83,15 +100,16 @@
       <p>Seller: ComicCollector123</p>
       <p>Description: Lorem ipsum dolor sit amet, consecte</p>
       <p>Current Bid: $100</p>
+      <p>Last 3 Bids: $120, $130, $140</p>
       <p>endTime: 2023-12-31T18:00:00.000Z</p>
 
-      <button>Bid Now</button>
+      <button class="bid-button">Bid Now</button>
     </div>
     <div class="auction-item">
       <h2>Another Auction Item</h2>
       <p>Description: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       <p>Current Bid: $75</p>
-      <button>Bid Now</button>
+      <button class="bid-button">Bid Now</button>
     </div>
     <!-- Add more auction items here -->
   </div>

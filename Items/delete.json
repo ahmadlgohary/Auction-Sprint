@@ -1,416 +1,489 @@
 [
     {
-    "_id": "6599296a0b4f0ef65220951d",
-    "name": "X-Men #1",
-    "category": "Comics",
-    "seller": "MutantCollectorX101",
-    "highestBid": 1500,
-    "previousBids": [],
-    "__v": 0
+        "_id": "65992ac22c225284131c6113",
+        "name": "Amazing Spider-Man #300",
+        "category": "Comics",
+        "seller": "ComicCollector123",
+        "highestBid": 150,
+        "previousBids": [
+            "120",
+            "130",
+            "140"
+        ],
+        "endTime": "2023-12-31T18:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "6599296a0b4f0ef652209521",
-    "name": "Ancient Greek Tetradrachm",
-    "category": "Coins",
-    "seller": "AncientGreeceNumismatist555",
-    "highestBid": 2000,
-    "previousBids": [],
-    "__v": 0
+        "_id": "65992ac22c225284131c6119",
+        "name": "Inverted Jenny Stamp",
+        "category": "Stamps",
+        "seller": "Philatelist101",
+        "highestBid": 5000,
+        "previousBids": [
+            4000,
+            4500,
+            4800
+        ],
+        "endTime": "2023-12-28T16:15:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ede",
-    "name": "Amazing Spider-Man #300",
-    "category": "Comics",
-    "seller": "ComicCollector123",
-    "highestBid": 150,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c611b",
+        "name": "Antique Sapphire and Diamond Necklace",
+        "category": "Antique Jewelry",
+        "seller": "JewelryEnthusiast555",
+        "highestBid": 8000,
+        "previousBids": [
+            7000,
+            7500,
+            7800
+        ],
+        "endTime": "2023-12-27T19:45:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ee4",
-    "name": "Inverted Jenny Stamp",
-    "category": "Stamps",
-    "seller": "Philatelist101",
-    "highestBid": 5000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c611d",
+        "name": "Starry Night by Vincent van Gogh",
+        "category": "Art",
+        "seller": "ArtCollector789",
+        "highestBid": 200000,
+        "previousBids": [
+            180000,
+            190000,
+            195000
+        ],
+        "endTime": "2023-12-26T23:59:59.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ee6",
-    "name": "Antique Sapphire and Diamond Necklace",
-    "category": "Antique Jewelry",
-    "seller": "JewelryEnthusiast555",
-    "highestBid": 8000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6117",
+        "name": "1794 Flowing Hair Silver Dollar",
+        "category": "Coins",
+        "seller": "Numismatist789",
+        "highestBid": 1000,
+        "previousBids": [
+            800,
+            900,
+            950
+        ],
+        "endTime": "2023-12-29T22:45:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ee8",
-    "name": "Starry Night by Vincent van Gogh",
-    "category": "Art",
-    "seller": "ArtCollector789",
-    "highestBid": 200000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6121",
+        "name": "First Edition of 'To Kill a Mockingbird'",
+        "category": "Rare Books",
+        "seller": "BookCollector456",
+        "highestBid": 2000,
+        "previousBids": [
+            1800,
+            1900,
+            1950
+        ],
+        "endTime": "2023-12-24T14:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043eea",
-    "name": "1967 Ford Mustang Fastback",
-    "category": "Vintage Cars",
-    "seller": "ClassicCarEnthusiast123",
-    "highestBid": 60000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6115",
+        "name": "Nike Air Jordan 1 Retro High",
+        "category": "Shoes",
+        "seller": "SneakerHead456",
+        "highestBid": 300,
+        "previousBids": [
+            250,
+            270,
+            290
+        ],
+        "endTime": "2023-12-30T20:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ee0",
-    "name": "Nike Air Jordan 1 Retro High",
-    "category": "Shoes",
-    "seller": "SneakerHead456",
-    "highestBid": 300,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6127",
+        "name": "Piece of the Berlin Wall",
+        "category": "Memorabilia from Historical Events",
+        "seller": "HistoryBuff789",
+        "highestBid": 500,
+        "previousBids": [
+            400,
+            450,
+            480
+        ],
+        "endTime": "2023-12-21T12:45:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043eee",
-    "name": "Michael Jordan Autographed Basketball",
-    "category": "Signed Autographs",
-    "seller": "SportsMemorabiliaFan101",
-    "highestBid": 10000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6125",
+        "name": "Rolex Submariner Date",
+        "category": "Watches",
+        "seller": "WatchCollector555",
+        "highestBid": 7000,
+        "previousBids": [
+            6500,
+            6800,
+            6900
+        ],
+        "endTime": "2023-12-22T19:15:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ee2",
-    "name": "1794 Flowing Hair Silver Dollar",
-    "category": "Coins",
-    "seller": "Numismatist789",
-    "highestBid": 1000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6129",
+        "name": "Stradivarius Violin",
+        "category": "Musical Instruments",
+        "seller": "MusicianCollector123",
+        "highestBid": 15000,
+        "previousBids": [
+            14000,
+            14500,
+            14800
+        ],
+        "endTime": "2023-12-20T15:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ef2",
-    "name": "Piece of the Berlin Wall",
-    "category": "Memorabilia from Historical Events",
-    "seller": "HistoryBuff789",
-    "highestBid": 500,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c612b",
+        "name": "Batman #1",
+        "category": "Comics",
+        "seller": "GothamFanatic101",
+        "highestBid": 1200,
+        "previousBids": [
+            1100,
+            1150,
+            1180
+        ],
+        "endTime": "2023-12-19T18:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ef4",
-    "name": "Stradivarius Violin",
-    "category": "Musical Instruments",
-    "seller": "MusicianCollector123",
-    "highestBid": 15000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c612d",
+        "name": "Adidas Yeezy Boost 350 V2",
+        "category": "Shoes",
+        "seller": "YeezyEnthusiast555",
+        "highestBid": 500,
+        "previousBids": [
+            450,
+            480,
+            490
+        ],
+        "endTime": "2023-12-18T20:45:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ef6",
-    "name": "Batman #1",
-    "category": "Comics",
-    "seller": "GothamFanatic101",
-    "highestBid": 1200,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c612f",
+        "name": "Ancient Roman Denarius",
+        "category": "Coins",
+        "seller": "AncientRomeNumismatist123",
+        "highestBid": 1200,
+        "previousBids": [
+            1100,
+            1150,
+            1180
+        ],
+        "endTime": "2023-12-17T22:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ef8",
-    "name": "Adidas Yeezy Boost 350 V2",
-    "category": "Shoes",
-    "seller": "YeezyEnthusiast555",
-    "highestBid": 500,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6131",
+        "name": "Two Penny Blue Stamp",
+        "category": "Stamps",
+        "seller": "PhilatelicExpert456",
+        "highestBid": 3000,
+        "previousBids": [
+            2800,
+            2900,
+            2950
+        ],
+        "endTime": "2023-12-16T16:15:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043efa",
-    "name": "Ancient Roman Denarius",
-    "category": "Coins",
-    "seller": "AncientRomeNumismatist123",
-    "highestBid": 1200,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6133",
+        "name": "Diamond Tennis Bracelet",
+        "category": "Antique Jewelry",
+        "seller": "JewelryConnoisseur789",
+        "highestBid": 10000,
+        "previousBids": [
+            9500,
+            9800,
+            9900
+        ],
+        "endTime": "2023-12-15T19:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043efc",
-    "name": "Two Penny Blue Stamp",
-    "category": "Stamps",
-    "seller": "PhilatelicExpert456",
-    "highestBid": 3000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6135",
+        "name": "The Persistence of Memory by Salvador DalÃ­",
+        "category": "Art",
+        "seller": "SurrealArtCollector123",
+        "highestBid": 180000,
+        "previousBids": [
+            175000,
+            178000,
+            179000
+        ],
+        "endTime": "2023-12-14T23:59:59.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f00",
-    "name": "The Persistence of Memory by Salvador DalÃ­",
-    "category": "Art",
-    "seller": "SurrealArtCollector123",
-    "highestBid": 180000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6137",
+        "name": "1973 Chevrolet Corvette Stingray",
+        "category": "Vintage Cars",
+        "seller": "ClassicCarRestorer101",
+        "highestBid": 70000,
+        "previousBids": [
+            68000,
+            69000,
+            69500
+        ],
+        "endTime": "2023-12-13T21:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043efe",
-    "name": "Diamond Tennis Bracelet",
-    "category": "Antique Jewelry",
-    "seller": "JewelryConnoisseur789",
-    "highestBid": 10000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6139",
+        "name": "Harry Potter and the Philosopher's Stone First Edition",
+        "category": "Rare Books",
+        "seller": "WizardryBookCollector555",
+        "highestBid": 4000,
+        "previousBids": [
+            3800,
+            3900,
+            3950
+        ],
+        "endTime": "2023-12-12T14:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f06",
-    "name": "Muhammad Ali Autographed Boxing Glove",
-    "category": "Signed Autographs",
-    "seller": "BoxingLegendCollector789",
-    "highestBid": 6000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c613b",
+        "name": "Muhammad Ali Autographed Boxing Glove",
+        "category": "Signed Autographs",
+        "seller": "BoxingLegendCollector789",
+        "highestBid": 6000,
+        "previousBids": [
+            5800,
+            5900,
+            5950
+        ],
+        "endTime": "2023-12-11T17:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f02",
-    "name": "1973 Chevrolet Corvette Stingray",
-    "category": "Vintage Cars",
-    "seller": "ClassicCarRestorer101",
-    "highestBid": 70000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6143",
+        "name": "X-Men #1",
+        "category": "Comics",
+        "seller": "MutantCollectorX101",
+        "highestBid": 1500,
+        "previousBids": [
+            1400,
+            1450,
+            1480
+        ],
+        "endTime": "2023-12-07T18:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f04",
-    "name": "Harry Potter and the Philosopher's Stone First Edition",
-    "category": "Rare Books",
-    "seller": "WizardryBookCollector555",
-    "highestBid": 4000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c611f",
+        "name": "1967 Ford Mustang Fastback",
+        "category": "Vintage Cars",
+        "seller": "ClassicCarEnthusiast123",
+        "highestBid": 60000,
+        "previousBids": [
+            55000,
+            58000,
+            59000
+        ],
+        "endTime": "2023-12-25T21:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f08",
-    "name": "Patek Philippe Nautilus",
-    "category": "Watches",
-    "seller": "LuxuryWatchConnoisseur123",
-    "highestBid": 12000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6141",
+        "name": "Steinway & Sons Grand Piano",
+        "category": "Musical Instruments",
+        "seller": "PianoMaestro789",
+        "highestBid": 25000,
+        "previousBids": [
+            24000,
+            24500,
+            24800
+        ],
+        "endTime": "2023-12-08T15:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f0a",
-    "name": "Piece of the Great Wall of China",
-    "category": "Memorabilia from Historical Events",
-    "seller": "HistoryExplorer456",
-    "highestBid": 800,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6123",
+        "name": "Michael Jordan Autographed Basketball",
+        "category": "Signed Autographs",
+        "seller": "SportsMemorabiliaFan101",
+        "highestBid": 10000,
+        "previousBids": [
+            9000,
+            9500,
+            9800
+        ],
+        "endTime": "2023-12-23T17:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f0c",
-    "name": "Steinway & Sons Grand Piano",
-    "category": "Musical Instruments",
-    "seller": "PianoMaestro789",
-    "highestBid": 25000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6149",
+        "name": "British Guiana 1c Magenta Stamp",
+        "category": "Stamps",
+        "seller": "PhilatelicGuru789",
+        "highestBid": 10000,
+        "previousBids": [
+            9800,
+            9900,
+            9950
+        ],
+        "endTime": "2023-12-04T16:15:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f0e",
-    "name": "X-Men #1",
-    "category": "Comics",
-    "seller": "MutantCollectorX101",
-    "highestBid": 1500,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6147",
+        "name": "Ancient Greek Tetradrachm",
+        "category": "Coins",
+        "seller": "AncientGreeceNumismatist555",
+        "highestBid": 2000,
+        "previousBids": [
+            1900,
+            1950,
+            1980
+        ],
+        "endTime": "2023-12-05T22:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f10",
-    "name": "Adidas Ultra Boost",
-    "category": "Shoes",
-    "seller": "SneakerTechie123",
-    "highestBid": 180,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c614b",
+        "name": "Emerald and Ruby Necklace",
+        "category": "Antique Jewelry",
+        "seller": "VintageGemCollector123",
+        "highestBid": 15000,
+        "previousBids": [
+            14500,
+            14800,
+            14900
+        ],
+        "endTime": "2023-12-03T19:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f12",
-    "name": "Ancient Greek Tetradrachm",
-    "category": "Coins",
-    "seller": "AncientGreeceNumismatist555",
-    "highestBid": 2000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c614d",
+        "name": "The Starry Night by Vincent van Gogh (Reproduction)",
+        "category": "Art",
+        "seller": "ArtReproductionCollector456",
+        "highestBid": 500,
+        "previousBids": [
+            450,
+            480,
+            490
+        ],
+        "endTime": "2023-12-02T23:59:59.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043ef0",
-    "name": "Rolex Submariner Date",
-    "category": "Watches",
-    "seller": "WatchCollector555",
-    "highestBid": 7000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c614f",
+        "name": "1955 Chevrolet Bel Air",
+        "category": "Vintage Cars",
+        "seller": "ClassicCarRestorer101",
+        "highestBid": 75000,
+        "previousBids": [
+            73000,
+            74000,
+            74500
+        ],
+        "endTime": "2023-12-01T21:30:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043eec",
-    "name": "First Edition of 'To Kill a Mockingbird'",
-    "category": "Rare Books",
-    "seller": "BookCollector456",
-    "highestBid": 2000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6151",
+        "name": "Alice's Adventures in Wonderland First Edition",
+        "category": "Rare Books",
+        "seller": "WonderlandCollector555",
+        "highestBid": 3000,
+        "previousBids": [
+            2800,
+            2900,
+            2950
+        ],
+        "endTime": "2023-11-30T14:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f1a",
-    "name": "1955 Chevrolet Bel Air",
-    "category": "Vintage Cars",
-    "seller": "ClassicCarRestorer101",
-    "highestBid": 75000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6153",
+        "name": "John Lennon Autographed Album",
+        "category": "Signed Autographs",
+        "seller": "MusicLegendCollector101",
+        "highestBid": 8000,
+        "previousBids": [
+            7800,
+            7900,
+            7950
+        ],
+        "endTime": "2023-11-29T17:00:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f1c",
-    "name": "Alice's Adventures in Wonderland First Edition",
-    "category": "Rare Books",
-    "seller": "WonderlandCollector555",
-    "highestBid": 3000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6155",
+        "name": "Spider-Man #1",
+        "category": "Comics",
+        "seller": "ComicCollector123",
+        "highestBid": 50,
+        "previousBids": [
+            45,
+            48
+        ],
+        "endTime": "2023-12-31T23:59:59.999Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f18",
-    "name": "The Starry Night by Vincent van Gogh (Reproduction)",
-    "category": "Art",
-    "seller": "ArtReproductionCollector456",
-    "highestBid": 500,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6157",
+        "name": "Nike Air Force 1",
+        "category": "Shoes",
+        "seller": "SneakerHead456",
+        "highestBid": 200,
+        "previousBids": [
+            180,
+            190
+        ],
+        "endTime": "2023-12-31T23:59:59.999Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f1e",
-    "name": "John Lennon Autographed Album",
-    "category": "Signed Autographs",
-    "seller": "MusicLegendCollector101",
-    "highestBid": 8000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6159",
+        "name": "1794 Flowing Hair Dollar",
+        "category": "Coins",
+        "seller": "Numismatist789",
+        "highestBid": 500,
+        "previousBids": [
+            480,
+            490
+        ],
+        "endTime": "2023-12-31T23:59:59.999Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f20",
-    "name": "Spider-Man #1",
-    "category": "Comics",
-    "seller": "ComicCollector123",
-    "highestBid": 50,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c613d",
+        "name": "Patek Philippe Nautilus",
+        "category": "Watches",
+        "seller": "LuxuryWatchConnoisseur123",
+        "highestBid": 12000,
+        "previousBids": [
+            11500,
+            11800,
+            11900
+        ],
+        "endTime": "2023-12-10T19:15:00.000Z",
+        "__v": 0
     },
     {
-    "_id": "65992a19e8705577e7043f22",
-    "name": "Nike Air Force 1",
-    "category": "Shoes",
-    "seller": "SneakerHead456",
-    "highestBid": 200,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
-    },
-    {
-    "_id": "65992a19e8705577e7043f24",
-    "name": "1794 Flowing Hair Dollar",
-    "category": "Coins",
-    "seller": "Numismatist789",
-    "highestBid": 500,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
-    },
-    {
-    "_id": "65992a19e8705577e7043f16",
-    "name": "Emerald and Ruby Necklace",
-    "category": "Antique Jewelry",
-    "seller": "VintageGemCollector123",
-    "highestBid": 15000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
-    },
-    {
-    "_id": "65992a19e8705577e7043f14",
-    "name": "British Guiana 1c Magenta Stamp",
-    "category": "Stamps",
-    "seller": "PhilatelicGuru789",
-    "highestBid": 10000,
-    "previousBids": [
-    0
-    ],
-    "__v": 0
+        "_id": "65992ac22c225284131c6145",
+        "name": "Adidas Ultra Boost",
+        "category": "Shoes",
+        "seller": "SneakerTechie123",
+        "highestBid": 180,
+        "previousBids": [
+            160,
+            170,
+            175
+        ],
+        "endTime": "2023-12-06T20:45:00.000Z",
+        "__v": 0
     }
-    ]
+]

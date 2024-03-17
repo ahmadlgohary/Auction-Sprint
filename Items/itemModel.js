@@ -31,5 +31,13 @@ mongoose.model("items_collection",{
     endTime:{
         type: Date,
         require: true
+    },
+    image:{
+        type: String,
+        require: true
+    },    
+    description:{
+        type: String,
+        require: true
     }
 })

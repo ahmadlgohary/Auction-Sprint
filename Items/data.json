@@ -10,7 +10,9 @@
             "130",
             "140"
         ],
-        "endTime": "2023-12-31T18:00:00.000Z"
+        "endTime": "2023-12-31T18:00:00.000Z",
+        "image": "https://m.media-amazon.com/images/I/917xRDrnexL._SL1500_.jpg",
+        "description": "Selling my Amazing Spider-Man #300 comic. It's in Near Mint condition. I've taken good care of it, but it's time to pass it on to another fan."
     },
     {
         "name": "Nike Air Jordan 1 Retro High",
@@ -23,7 +25,9 @@
             270,
             290
         ],
-        "endTime": "2023-12-30T20:30:00.000Z"
+        "endTime": "2023-12-30T20:30:00.000Z",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/401/929/original/14741_01.jpg.jpeg?action=crop&width=500",
+        "description": "Brand new Nike Air Jordan 1 Retro High sneakers for sale. Never worn. Bought them, but they didn't fit right, so I'm selling them."
     },
     {
         "name": "1794 Flowing Hair Silver Dollar",
@@ -36,7 +40,9 @@
             900,
             950
         ],
-        "endTime": "2023-12-29T22:45:00.000Z"
+        "endTime": "2023-12-29T22:45:00.000Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flowing_hair_dollar.jpeg/800px-Flowing_hair_dollar.jpeg",
+        "description": "Selling my 1794 Flowing Hair Silver Dollar. It's in good condition. Been in the family for years, but I could use the cash right now."
     },
     {
         "name": "Inverted Jenny Stamp",
@@ -49,7 +55,9 @@
             4500,
             4800
         ],
-        "endTime": "2023-12-28T16:15:00.000Z"
+        "endTime": "2023-12-28T16:15:00.000Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/US_Airmail_inverted_Jenny_24c_1918_issue.jpg",
+        "description": "Got an Inverted Jenny Stamp in mint condition up for sale. Been holding onto it for a while, but it's time to let it go. Hit me up if you're interested."
     },
     {
         "name": "Antique Sapphire and Diamond Necklace",
@@ -62,20 +70,24 @@
             7500,
             7800
         ],
-        "endTime": "2023-12-27T19:45:00.000Z"
+        "endTime": "2023-12-27T19:45:00.000Z",
+        "image": "https://d17anp2eo56k6j.cloudfront.net/media/catalog/product/f/r/french-antique-diamond-and-sapphire-necklace_2_90-1-12024.jpg",
+        "description": "Selling this antique Sapphire and Diamond Necklace. It's in excellent condition. Got it as a gift, but it's not really my style."
     },
     {
-        "name": "Starry Night by Vincent van Gogh",
+        "name": "Starry Night by Vincent van Gogh (Reproduction)",
         "category": "Art",
         "condition": "Original",
         "seller": "ArtCollector789",
-        "highestBid": 200000,
+        "highestBid": 2000,
         "previousBids": [
-            180000,
-            190000,
-            195000
+            1800,
+            1900,
+            1950
         ],
-        "endTime": "2023-12-26T23:59:59.000Z"
+        "endTime": "2023-12-26T23:59:59.000Z",
+        "image": "https://www.vangoghgallery.com/img/starry_night_full.jpg",
+        "description": "Selling a reproduction of Starry Night by Vincent van Gogh. It's in original condition. Bought it on a trip, but don't have space for it anymore."
     },
     {
         "name": "1967 Ford Mustang Fastback",
@@ -88,7 +100,9 @@
             58000,
             59000
         ],
-        "endTime": "2023-12-25T21:30:00.000Z"
+        "endTime": "2023-12-25T21:30:00.000Z",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7ef6afb-d5fd-413b-9d22-f5212acf39a8/dfw1yvp-9358c3e2-63f5-469e-8db6-a46646355f4f.jpg/v1/fill/w_1600,h_960,q_75,strp/1967_ford_mustang_gt_fastback__little_s_car__by_little_94_dfw1yvp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3ZWY2YWZiLWQ1ZmQtNDEzYi05ZDIyLWY1MjEyYWNmMzlhOFwvZGZ3MXl2cC05MzU4YzNlMi02M2Y1LTQ2OWUtOGRiNi1hNDY2NDYzNTVmNGYuanBnIiwiaGVpZ2h0IjoiPD05NjAiLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9kN2VmNmFmYi1kNWZkLTQxM2ItOWQyMi1mNTIxMmFjZjM5YThcL2xpdHRsZS05NC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.7mnabZFeTs4dIM6OQ2xQm5F6CamRF1GcOjcrww7oWgY",
+        "description": "Selling my 1967 Ford Mustang Fastback. It's been restored and looks great. Hate to see it go, but need the money for other things."
     },
     {
         "name": "First Edition of 'To Kill a Mockingbird'",
@@ -101,7 +115,9 @@
             1900,
             1950
         ],
-        "endTime": "2023-12-24T14:00:00.000Z"
+        "endTime": "2023-12-24T14:00:00.000Z",
+        "image": "https://thefirstedition-prod.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/06/15171634/Lee-Harper_To-Kill-A-Mockingbird_14085-4-e1686260680630-438x399.jpg",
+        "description": "Have a first edition of 'To Kill a Mockingbird' up for sale. It's in very good condition. Bought it at an auction, but realized I'm not much of a book collector."
     },
     {
         "name": "Michael Jordan Autographed Basketball",
@@ -114,7 +130,9 @@
             9500,
             9800
         ],
-        "endTime": "2023-12-23T17:00:00.000Z"
+        "endTime": "2023-12-23T17:00:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/I6wAAOSwoZBfe8u~/s-l1200.jpg",
+        "description": "Selling a Michael Jordan Autographed Basketball. It's authenticated. Got it as a gift, but I'm not really into basketball."
     },
     {
         "name": "Rolex Submariner Date",
@@ -127,7 +145,9 @@
             6800,
             6900
         ],
-        "endTime": "2023-12-22T19:15:00.000Z"
+        "endTime": "2023-12-22T19:15:00.000Z",
+        "image": "https://cdn2.chrono24.com/images/uhren/25649507-22wj17iawyhqbp62ix8hyu5d-ExtraLarge.jpg",
+        "description": "Got a Rolex Submariner Date watch for sale. It's like new. Bought it on a whim, but never really wore it."
     },
     {
         "name": "Piece of the Berlin Wall",
@@ -140,7 +160,9 @@
             450,
             480
         ],
-        "endTime": "2023-12-21T12:45:00.000Z"
+        "endTime": "2023-12-21T12:45:00.000Z",
+        "image": "https://m.media-amazon.com/images/I/81exmUe+WdL.jpg",
+        "description": "Selling a Piece of the Berlin Wall. It's authentic. Got it as a souvenir, but need to declutter."
     },
     {
         "name": "Stradivarius Violin",
@@ -153,7 +175,9 @@
             14500,
             14800
         ],
-        "endTime": "2023-12-20T15:30:00.000Z"
+        "endTime": "2023-12-20T15:30:00.000Z",
+        "image": "https://media.wired.co.uk/photos/606da0ee687a704c2c361835/master/w_1600%2Cc_limit/original.jpg",
+        "description": "Selling my Stradivarius Violin. It's in excellent condition. Used to play it, but don't have time anymore."
     },
     {
         "name": "Batman #1",
@@ -166,7 +190,9 @@
             1150,
             1180
         ],
-        "endTime": "2023-12-19T18:00:00.000Z"
+        "endTime": "2023-12-19T18:00:00.000Z",
+        "image": "https://m.media-amazon.com/images/I/5186GdWb1yL.jpg",
+        "description": "Got a Batman #1 comic for sale. It's in very fine condition. Bought it at a convention, but need to make space."
     },
     {
         "name": "Adidas Yeezy Boost 350 V2",
@@ -179,7 +205,9 @@
             480,
             490
         ],
-        "endTime": "2023-12-18T20:45:00.000Z"
+        "endTime": "2023-12-18T20:45:00.000Z",
+        "image": "https://m.media-amazon.com/images/I/71PBPwvgx2L._AC_UY900_.jpg",
+        "description": "Selling Adidas Yeezy Boost 350 V2 shoes. They're new with box. Bought them online, but they don't fit."
     },
     {
         "name": "Ancient Roman Denarius",
@@ -192,7 +220,9 @@
             1150,
             1180
         ],
-        "endTime": "2023-12-17T22:30:00.000Z"
+        "endTime": "2023-12-17T22:30:00.000Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Marcus_Aurelius_Denarius2.jpg",
+        "description": "Selling an Ancient Roman Denarius. It's in fine condition. Found it while metal detecting, but not sure what to do with it."
     },
     {
         "name": "Two Penny Blue Stamp",
@@ -205,7 +235,9 @@
             2900,
             2950
         ],
-        "endTime": "2023-12-16T16:15:00.000Z"
+        "endTime": "2023-12-16T16:15:00.000Z",
+        "image": "https://images.saatchiart.com/saatchi/900054/art/3281013/2350900-HSC00001-7.jpg",
+        "description": "Have a Two Penny Blue Stamp for sale. It's used. Got it in a collection, but stamps aren't really my thing."
     },
     {
         "name": "Diamond Tennis Bracelet",
@@ -218,10 +250,12 @@
             9800,
             9900
         ],
-        "endTime": "2023-12-15T19:00:00.000Z"
+        "endTime": "2023-12-15T19:00:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/R8sAAOSw0E9jjIqH/s-l1200.webp",
+        "description": "Selling a Diamond Tennis Bracelet. It's in excellent condition. Got it as a gift, but I don't wear jewelry much."
     },
     {
-        "name": "The Persistence of Memory by Salvador Dalí",
+        "name": "The Persistence of Memory by Salvador Dal\u00c3\u00ad",
         "category": "Art",
         "condition": "Original",
         "seller": "SurrealArtCollector123",
@@ -231,7 +265,9 @@
             178000,
             179000
         ],
-        "endTime": "2023-12-14T23:59:59.000Z"
+        "endTime": "2023-12-14T23:59:59.000Z",
+        "image": "https://cdn.britannica.com/96/240496-138-66D89FAD/Salvador-Dali-Persistence-of-Memory.jpg?w=800&h=450&c=crop",
+        "description": "Selling a reproduction of The Persistence of Memory by Salvador Dal\u00c3\u00ad. It's in original condition. Bought it at an art fair, but need to downsize."
     },
     {
         "name": "1973 Chevrolet Corvette Stingray",
@@ -244,7 +280,9 @@
             69000,
             69500
         ],
-        "endTime": "2023-12-13T21:30:00.000Z"
+        "endTime": "2023-12-13T21:30:00.000Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg/800px-Chevrolet_Corvette_C3_Stingray_IMG_3199.jpg",
+        "description": "Selling my 1973 Chevrolet Corvette Stingray. It's in excellent condition. Had it for years, but don't drive it much anymore."
     },
     {
         "name": "Harry Potter and the Philosopher's Stone First Edition",
@@ -257,7 +295,9 @@
             3900,
             3950
         ],
-        "endTime": "2023-12-12T14:00:00.000Z"
+        "endTime": "2023-12-12T14:00:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/YUQAAOSwEwhcRjvV/s-l1600.jpg",
+        "description": "Selling a first edition of Harry Potter and the Philosopher's Stone. It's in like new condition. Bought it on a whim, but never got around to reading it."
     },
     {
         "name": "Muhammad Ali Autographed Boxing Glove",
@@ -270,7 +310,9 @@
             5900,
             5950
         ],
-        "endTime": "2023-12-11T17:00:00.000Z"
+        "endTime": "2023-12-11T17:00:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/Rm8AAOSwR2RbvRLd/s-l1200.webp",
+        "description": "Got a Muhammad Ali Autographed Boxing Glove for sale. It's authenticated. Bought it at an auction, but need the money now."
     },
     {
         "name": "Patek Philippe Nautilus",
@@ -283,20 +325,39 @@
             11800,
             11900
         ],
-        "endTime": "2023-12-10T19:15:00.000Z"
+        "endTime": "2023-12-10T19:15:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/4gEAAOSweR1lDvhp/s-l1600.jpg",
+        "description": "Selling a Patek Philippe Nautilus watch. It's in like new condition. Bought it as an investment, but need to cash out."
     },
     {
-        "name": "Piece of the Great Wall of China",
-        "category": "Memorabilia from Historical Events",
-        "condition": "Authentic",
+        "name": "Vintage Great Wall of China Medallion",
+        "category": "Memorabilia",
+        "condition": "Like New",
         "seller": "HistoryExplorer456",
-        "highestBid": 800,
+        "highestBid": 130,
         "previousBids": [
-            750,
-            780,
-            790
+            75,
+            80,
+            90
         ],
-        "endTime": "2023-12-09T12:45:00.000Z"
+        "endTime": "2023-12-09T12:45:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/ROYAAOSw8LNj00FJ/s-l1600.jpg",
+        "description": "Selling a Vintage Great Wall of China Medallion. It's in like new condition. Got it as a souvenir, but not really my style."
+    },
+    {
+        "name": "Skull of a Skeleton with Burning Cigarette by Vincent van Gogh (Reproduction)",
+        "category": "Art",
+        "condition": "Original",
+        "seller": "ArtCollector789",
+        "highestBid": 2000,
+        "previousBids": [
+            1800,
+            1900,
+            1950
+        ],
+        "endTime": "2023-12-26T23:59:59.000Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg/330px-Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg",
+        "description": "Selling a reproduction of Skull of a Skeleton with Burning Cigarette by Vincent van Gogh. It's in original condition. Bought it at an art auction, but need to downsize."
     },
     {
         "name": "Steinway & Sons Grand Piano",
@@ -309,7 +370,9 @@
             24500,
             24800
         ],
-        "endTime": "2023-12-08T15:30:00.000Z"
+        "endTime": "2023-12-08T15:30:00.000Z",
+        "image": "https://www.chuppspianos.com/wp-content/uploads/2015/03/Steinway-Model-D-Concert-Grand-Piano-233201.jpg",
+        "description": "Selling my Steinway & Sons Grand Piano. It's in excellent condition. Used to play it, but need the space now."
     },
     {
         "name": "X-Men #1",
@@ -322,7 +385,9 @@
             1450,
             1480
         ],
-        "endTime": "2023-12-07T18:00:00.000Z"
+        "endTime": "2023-12-07T18:00:00.000Z",
+        "image": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/f0/589ddfc222e9c/clean.jpg",
+        "description": "Selling my X-Men #1 comic. It's in fine condition. Got it in a trade, but not really into comics anymore."
     },
     {
         "name": "Adidas Ultra Boost",
@@ -335,7 +400,9 @@
             170,
             175
         ],
-        "endTime": "2023-12-06T20:45:00.000Z"
+        "endTime": "2023-12-06T20:45:00.000Z",
+        "image": "https://preview.thenewsmarket.com/Previews/ADID/StillAssets/1920x1080/576929_v2.jpg",
+        "description": "Selling Adidas Ultra Boost shoes. They're new with tags. Bought them online, but they don't fit right."
     },
     {
         "name": "Ancient Greek Tetradrachm",
@@ -348,7 +415,9 @@
             1950,
             1980
         ],
-        "endTime": "2023-12-05T22:30:00.000Z"
+        "endTime": "2023-12-05T22:30:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/yNUAAOSw~ANjOJF4/s-l1200.jpg",
+        "description": "Selling an Ancient Greek Tetradrachm. It's in very fine condition. Found it while traveling, but not sure what to do with it."
     },
     {
         "name": "British Guiana 1c Magenta Stamp",
@@ -361,7 +430,9 @@
             9900,
             9950
         ],
-        "endTime": "2023-12-04T16:15:00.000Z"
+        "endTime": "2023-12-04T16:15:00.000Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/British_Guiana_14.jpg/220px-British_Guiana_14.jpg",
+        "description": "Have a British Guiana 1c Magenta Stamp for sale. It's used. Found it in an old box of stamps, but not my thing."
     },
     {
         "name": "Emerald and Ruby Necklace",
@@ -374,10 +445,12 @@
             14800,
             14900
         ],
-        "endTime": "2023-12-03T19:00:00.000Z"
+        "endTime": "2023-12-03T19:00:00.000Z",
+        "image": "https://i.ebayimg.com/images/g/K7MAAOSwjyNiOZcA/s-l1200.jpg",
+        "description": "Selling an Emerald and Ruby Necklace. It's in excellent condition. Got it as a gift, but I don't wear jewelry much."
     },
     {
-        "name": "The Starry Night by Vincent van Gogh (Reproduction)",
+        "name": "The Death of Marat by Jacques-Louis David (Reproduction)",
         "category": "Art",
         "condition": "Reproduction",
         "seller": "ArtReproductionCollector456",
@@ -387,7 +460,9 @@
             480,
             490
         ],
-        "endTime": "2023-12-02T23:59:59.000Z"
+        "endTime": "2023-12-02T23:59:59.000Z",
+        "image": "https://cdn.britannica.com/21/7921-050-1607C28F/Death-of-Marat-Jacques-Louis-David-Royal-Museums-1793.jpg",
+        "description": "Selling a reproduction of The Death of Marat by Jacques-Louis David. It's in reproduction condition. Bought it at an art fair, but need to downsize."
     },
     {
         "name": "1955 Chevrolet Bel Air",
@@ -400,7 +475,9 @@
             74000,
             74500
         ],
-        "endTime": "2023-12-01T21:30:00.000Z"
+        "endTime": "2023-12-01T21:30:00.000Z",
+        "image": "https://cdn.dealeraccelerate.com/cam/34/1925/80819/1920x1440/1955-chevrolet-bel-air",
+        "description": "Selling my 1955 Chevrolet Bel Air. It's been restored and looks great. Had it for years, but need the money now."
     },
     {
         "name": "Alice's Adventures in Wonderland First Edition",
@@ -413,7 +490,9 @@
             2900,
             2950
         ],
-        "endTime": "2023-11-30T14:00:00.000Z"
+        "endTime": "2023-11-30T14:00:00.000Z",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71O1It5N1VS._AC_UL600_SR600,600_.jpg",
+        "description": "Selling a first edition of Alice's Adventures in Wonderland. It's in very good condition. Found it at a flea market, but not really into collecting books."
     },
     {
         "name": "John Lennon Autographed Album",
@@ -426,7 +505,9 @@
             7900,
             7950
         ],
-        "endTime": "2023-11-29T17:00:00.000Z"
+        "endTime": "2023-11-29T17:00:00.000Z",
+        "image": "https://p1.liveauctioneers.com/6898/153497/77549769_1_x.jpg?height=300&quality=95&version=1572382768&width=300",
+        "description": "Selling a John Lennon Autographed Album. It's authenticated. Bought it at an estate sale, but need the money now."
     },
     {
         "name": "Spider-Man #1",
@@ -438,7 +519,9 @@
             45,
             48
         ],
-        "endTime": "2023-12-31T23:59:59.999Z"
+        "endTime": "2023-12-31T23:59:59.999Z",
+        "image": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/80/633cefe9900ea/clean.jpg",
+        "description": "Selling my Spider-Man #1 comic. It's in excellent condition. Bought it at a comic shop, but need to make space."
     },
     {
         "name": "Nike Air Force 1",
@@ -450,7 +533,9 @@
             180,
             190
         ],
-        "endTime": "2023-12-31T23:59:59.999Z"
+        "endTime": "2023-12-31T23:59:59.999Z",
+        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Fsothebys-nike-air-force-1-collection-off-white-mca-fat-joe-terror-squad-pe-release-info-4.jpg?cbr=1&q=90",
+        "description": "Selling Nike Air Force 1 shoes. They're brand new. Got them as a gift, but they're not my style."
     },
     {
         "name": "1794 Flowing Hair Dollar",
@@ -462,6 +547,8 @@
             480,
             490
         ],
-        "endTime": "2023-12-31T23:59:59.999Z"
+        "endTime": "2023-12-31T23:59:59.999Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flowing_hair_dollar.jpeg",
+        "description": "Selling my 1794 Flowing Hair Dollar. It's in good condition. Found it in an old coin collection, but not my thing."
     }
 ]

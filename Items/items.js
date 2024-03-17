@@ -35,11 +35,14 @@ app.listen(4545, ()=>{
 app.post("/item", (req, res)=>{
     let newItem = {
         "name"          :   req['body']['name'], 
+        "image"         :   req['body']['image'],
+        "description"   :   req['body']['description'],
         "category"      :   req['body']['category'], 
         "seller"        :   req['body']['seller'], 
         "highestBid"    :   req['body']['highestBid'],
         "previousBids"  :   req['body']['previousBids'],
         "endTime"       :   req['body']['endTime']
+
     }
     let item = new Item_Model(newItem)
     

@@ -2,12 +2,15 @@ import requests as r
 import json
 
 with open(r"C:\Users\Ahmad El-Gohary\Documents\GitHub\Auction Sprint\Items\data.json") as f: data = json.loads(f.read())
-print(len(data))
 
-for i in data:
-    response = r.request("POST","http://localhost:4545/item", data=json.dumps(i), headers= {'Content-Type': 'application/json'})
+for i,item in enumerate(data):
 
-    #response =r.request("DELETE",f"http://localhost:4545/item/{i['_id']}", headers= {'Content-Type': 'application/json'})
+    
+
+
+    response = r.request("POST","http://localhost:4545/item", data=json.dumps(item), headers= {'Content-Type': 'application/json'})
+
+    #response =r.request("DELETE",f"http://localhost:4545/item/{item['_id']}", headers= {'Content-Type': 'application/json'})
 print(response.text)
 
-
+#with open(r"C:\Users\Ahmad El-Gohary\Documents\GitHub\Auction Sprint\Items\data.json","w") as f: f.write(json.dumps(data,indent=4))
