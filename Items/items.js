@@ -16,6 +16,15 @@ const Item_Model = mongoose.model("items_collection")
 const bodyParser = require("body-parser")
 app.use(bodyParser.json())
 
+//Import Cross Origin Resource Sharing.
+const cors = require("cors");
+const corsOptions ={
+    origin:'*', 
+    credentials:true,            //access-control-allow-credentials:true
+    optionSuccessStatus:200,
+ }
+ 
+ app.use(cors(corsOptions))
 
 //create host
 app.get('/',(req,res)=>{

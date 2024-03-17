@@ -4,80 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Auction Sprint</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-  }
-  header {
-    background-color: #111;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-  }
-  h1 {
-    margin: 0;
-  }
-  nav {
-    background-color: #333;
-    padding: 10px 0;
-    text-align: center;
-  }
-  nav a {
-    color: #fff;
-    text-decoration: none;
-    padding: 10px 20px;
-  }
-  nav a:hover {
-    background-color: #666;
-  }
-  .container {
-    max-width: 1200px;
-    margin: 20px auto;
-    padding: 0 20px;
-  }
-  .auction-item {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: left;
-    overflow: auto;
-    transition: transform 0.3s ease;
-
-  }
-  .auction-item:hover {
-    transform: translateY(-5px);
-  }
-  .auction-item h2 {
-    margin-top: 0;
-  }
-  .auction-item p {
-    margin-bottom: 0;
-  }
-  .bid-button {
-    background-color: #000;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  .bid-button:hover {
-    background-color: #45a049;
-  }
-  .logo {
-    max-width: 47px;
-  }
-  .preview{
-    max-width: 200px;
-    float: right;
-  }
-</style>
+<link rel="stylesheet" href="styles.css">
+<script src="index.js"></script>
 </head>
 <body>
   <header>
@@ -93,24 +21,18 @@
     <a href="#">Sign In/Login</a>
     
   </nav>
-  <div class="container">
-    <div class="auction-item">
-      <h2>Amazing Spider-Man #300<img src="https://m.media-amazon.com/images/I/917xRDrnexL._SL1500_.jpg" class = "preview"></h2>
-      <p>Category: Comics</p>
-      <p>Seller: ComicCollector123</p>
-      <p>Description: Lorem ipsum dolor sit amet, consecte</p>
-      <p>Current Bid: $100</p>
-      <p>Last 3 Bids: $120, $130, $140</p>
-      <p>endTime: 2023-12-31T18:00:00.000Z</p>
-
+  <div class="container" id ="itemsContainer" >
+    <div class="auction-item">    
+      <h2>The Death of Marat by Jacques-Louis David (Reproduction)<img src="https://cdn.britannica.com/21/7921-050-1607C28F/Death-of-Marat-Jacques-Louis-David-Royal-Museums-1793.jpg" class="preview"></h2>
+      <p>Category: Art</p>
+      <p>Seller: ArtReproductionCollector456</p>
+      <p>Description: Selling a reproduction of The Death of Marat by Jacques-Louis David. It's in reproduction condition. Bought it at an art fair, but need to downsize.</p>
+      <p>Current Bid: $500</p>
+      <p>Last 3 Bids: $450, $480, $490, </p>
+      <p>Bidding ends in: 2023-12-02T23:59:59.000Z</p>
+      
       <button class="bid-button">Bid Now</button>
-    </div>
-    <div class="auction-item">
-      <h2>Another Auction Item</h2>
-      <p>Description: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <p>Current Bid: $75</p>
-      <button class="bid-button">Bid Now</button>
-    </div>
+      </div>
     <!-- Add more auction items here -->
   </div>
 </body>
