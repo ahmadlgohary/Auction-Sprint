@@ -41,7 +41,7 @@ app.listen(4545, ()=>{
 
 
 //Create an Item
-app.post("/item", (req, res)=>{
+app.post("/item", async (req, res)=>{
     let newItem = {
         "name"          :   req['body']['name'], 
         "image"         :   req['body']['image'],
@@ -54,27 +54,26 @@ app.post("/item", (req, res)=>{
 
     }
     let item = new Item_Model(newItem)
-    
-    item.save().then(()=>{
+    try{
+        await item.save()
         console.log("new item Created")
-    }).catch(err =>{
-        if(err){
-            throw err
-        }
-    })
+    }catch(error){
+        throw err
+    }
+
     res.send("successfully created new item ")
 })
 
 
 //Read All Items
-app.get("/items",(req,res)=>{
-    Item_Model.find().then((items)=>{
+app.get("/items", async (req,res)=>{
+    try{
+        items = await Item_Model.find()
         res.json(items)
-    }).catch(err =>{
-        if(err){
-            throw err
-        }
-    })
+    }
+    catch(err){
+        console.log(err)
+    }
 })
 
 
@@ -108,15 +107,14 @@ app.get("/item/:id", async (req, res) => { //< Marks the callback as async
 
 
 //Delete an Item
-app.delete("/item/:id",(req,res)=>{
-    Item_Model.findOneAndDelete(req.params.id).then((item)=>{
+app.delete("/item/:id", async (req,res)=>{
+    try{
+        item  = await Item_Model.findOneAndDelete({"_id":req.params.id})
         console.log(item)
         res.send("Item Successfully Removed")
-    }).catch(err =>{
-        if(err){
+    }catch(err){
             console.log(err);
-        }
-    })
+    }
 })
 
 
